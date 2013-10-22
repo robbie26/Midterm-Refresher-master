@@ -1,1 +1,26 @@
 /* Stylesheet */
+
+body{
+	background:black;
+	}
+
+header{
+	background:yellow;
+	}
+	
+nav{
+	background:orange;
+	}
+blockquote{
+	background:green;
+	}
+section{
+	background:purple;
+	}
+footer{
+	background:red;
+	}
+.container_12{
+	background:hotpink;
+	}
+	
