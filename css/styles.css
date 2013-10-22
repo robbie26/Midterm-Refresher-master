@@ -7,19 +7,25 @@ body{
 header{
 	background:yellow;
 	}
+p, h1{
+	font-family: 'Share Tech', sans-serif;
+	}
 	
+h3 {
+	text-transform:uppercase;
+	}
 nav{
 	background:orange;
 	}
+	
 blockquote{
 	background:green;
 	}
-section{
-	background:purple;
-	}
+	
 footer{
 	background:red;
 	}
+	
 .container_12{
 	background:hotpink;
 	}
